@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Kiefer
-- 👀 I’m interested in ... Music, Reading, and Chess. I am a lifelong learner always seeking new things to experience and information to sponge up.
-- 🌱 I’m currently learning ... Mobile Application Designa and Development at Algonquin College
-- 💞️ I’m looking to collaborate on ... Any project that will have me. I'm interested in a lot of different things and have beginner level knowledge.
-- 📫 How to reach me ...discord:kbp#2676
+Hello, my name is Kiefer. I am a passionate and dedicated learner with a strong background in mobile application development. I have experience with a variety of programming languages, including among many: JavaScript, Swift, Kotlin, and React/Native. My interests include creating music, reading about psychology, and playing chess, and I am always seeking new experiences and opportunities to grow my knowledge. I am currently studying mobile application design and development at Algonquin College and am excited to collaborate on any project that will allow me to utilize my skills and continue learning. You can reach me on 
+
+Discord at kbp#2676.
 
 <!---
 bair0069/bair0069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
